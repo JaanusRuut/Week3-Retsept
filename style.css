@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Combo&family=Dancing+Script&display=swap');
+
+
+body {
+    background-color: rgb(209, 174, 183);
+}
+
+.heading {
+    color: rgb(192, 18, 70);
+    font-family: 'Qwitcher Grypen', cursive;
+    text-align: center;
+}
+
+.images {
+    text-align: center;
+  
+}
+      
+
+.basic {
+    
+
+    width: 800px; 
+    height: auto; 
+    border: 1px solid black;
+    border-radius: 5%;  
+    color: rgb(163, 81, 14); 
+    margin: 0 auto;
+}
+
+.tables {
+    width: 400px;
+    height: 400px;
+    color: rgb(201, 15, 61);
+    margin: 20px auto;
+    border-color: rgb(82, 27, 231);
+    
+}
+.tableh {
+    font-family: 'Qwitcher Grypen', cursive;
+    font-size: 2rem;
+}
+
+.valmistamine {
+    color: rgb(192, 18, 70);
+    font-family: 'Qwitcher Grypen', cursive;
+    margin-left: 290px;
+    font-size: 2rem;
+    
+}
+
+.valmistaminedata {
+    margin-left: 200px;
+    width: 450px;
+    
+
+}
+.valmistaminest {
+    margin-top: 15px;
+}
+
+.hhr {
+ margin: 15px;
+}
+
+.kodukas {
+    margin-left: 350px;
+}
+
+.podp {
+    margin-left: 350px;
+    font-family: 'Antonio', sans-serif;
+    color: rgb(155, 13, 13);
+    margin-bottom: 10px;
+}
